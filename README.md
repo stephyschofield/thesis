@@ -1,4 +1,4 @@
-# PERCEPTION IS REALITY: MEASURING THE EFFICACY OF HUMAN-CENTERED DATA VISUALIZATION METHODS WITH COVID-19 CASE DATA
+# Perception is Reality: Measuring the Efficacy of Human-Centered Data Visualization Methods with COVID-19 Case Data
 ## A Thesis Presented to the Department of Computer Information Science and the Robert D. Clark Honors College in partial fulfillment of the requirements for the degree of Bachelor of Science - June 2021
 
 ### Abstract
